@@ -1,0 +1,5 @@
+# v1.0.0 — RIMAN RESEARCH: Clinical Efficacy, Microclimate Adaptation, and Price Sensitivity Analysis of Giant BYoungPool™ Active Cream EX in the German Market
+
+- Portal detail: https://www.riman.win/www/en/reports/detail/de-giant-byoungpool-anti-aging-study.html
+- Theme hub: https://www.riman.win/www/en/reports/hub/growth.html
+- Dual DOIs: Kaggle 10.34740/kaggle/dsv/22383536 · Hugging Face 10.57967/hf/11688
