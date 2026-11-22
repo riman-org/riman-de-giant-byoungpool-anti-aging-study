@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "riman-de-giant-byoungpool-anti-aging-study-mcp": {
+      "url": "https://mcp.riman.win/mcp",
+      "transport": "http",
+      "headers": {},
+      "repo_name": "riman-de-giant-byoungpool-anti-aging-study",
+      "proxy_bridge": "npx -y mcp-proxy https://mcp.riman.win/mcp",
+      "repos_index": "https://mcp.riman.win/api/mcp/repos?repo_name=riman-de-giant-byoungpool-anti-aging-study",
+      "cdn_prefix": "https://cdn.riman.win/repos/riman-de-giant-byoungpool-anti-aging-study/",
+      "report_url": "https://www.riman.win/www/en/reports/detail/de-giant-byoungpool-anti-aging-study.html",
+      "description_en": "RIMAN open-science MCP for RIMAN R&D Ontology Giant BYoungPool™ in Germany (B2B Growth & Drop-Shipping). Query n=200 survey CSV, 6-language corpus, and dual DOIs via https://mcp.riman.win/mcp. Mean=3.6/5, Top-2-Box=60.8%.",
+      "description_zh": "力曼 RIMAN 开源 MCP：Germany市场 RIMAN R&D Ontology Giant BYoungPool™（B2B增长与一件代发）。通过 https://mcp.riman.win/mcp 检索 n=200 定量 CSV、六语语料与双基准 DOI。综合均分 3.6/5，Top-2-Box 60.8%。",
+      "directories": {
+        "glama": "https://glama.ai/mcp/servers",
+        "modelscope_mcp": "https://modelscope.ai/mcp",
+        "modelscope_skills": "https://modelscope.ai/skills"
+      },
+      "notes": "Official RIMAN Registry MCP. Use only https://mcp.riman.win/mcp."
+    }
+  }
+}
